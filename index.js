@@ -18,7 +18,7 @@ class Svg {
     setTextElement(text, color, shapeType) {
         if (shapeType.toLowerCase() === "triangle") {
             // Adjust font size and position for the triangle
-            this.textElement = `<text x="150" y="140" font-size="40" text-anchor="middle" fill="${color}">${text}</text>`;
+            this.textElement = `<text x="150" y="140" font-size="60" text-anchor="middle" fill="${color}">${text}</text>`;
         } else {
             // Use the default font size and position for other shapes
             this.textElement = `<text x="150" y="125" font-size="60" text-anchor="middle" fill="${color}">${text}</text>`;

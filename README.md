@@ -35,6 +35,7 @@ The SVG Logo Creator is a command-line application built in Node.js that empower
 - Select from three different shapes: circle, triangle, and square.
 - Specify the color of the chosen shape using color keywords or hexadecimal values.
 - Generates a 300x200 pixel SVG image matching your criteria.
+- Generates each logo with a unique timestamped filename to ensure users can create multiple logos without overwriting previous ones.
 
 
 ## Technologies Used

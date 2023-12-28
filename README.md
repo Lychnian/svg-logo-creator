@@ -71,10 +71,44 @@ To use the SVG Logo Creator, follow these steps:
 
 
 ## Demo Video
-To see the SVG Logo Creator in action, watch the walkthrough video that demonstrates how to use the application, including entering responses to prompts and viewing the generated logo in a browser.
+To see the SVG Logo Creator in action, watch my YouTube walkthrough video that demonstrates how to use the application, including entering responses to prompts and viewing the generated logo in a browser.
+YouTube URL: https://youtu.be/yVpkmNZ0MjI
 
 
 ## Screenshots
+
+
+![Screenshot Shapes js](https://github.com/Lychnian/svg-logo-creator/assets/140586279/fe28665a-5cde-4e6f-9016-f43881411dcd)
+
+
+![Screenshot shapes test js](https://github.com/Lychnian/svg-logo-creator/assets/140586279/cf8da38c-a642-4209-bd72-85a19d18c1d0)
+
+
+![Screenshot jest](https://github.com/Lychnian/svg-logo-creator/assets/140586279/400bfc27-fa54-4551-8eb3-04ac15616362)
+
+
+![Screenshot Test Passed](https://github.com/Lychnian/svg-logo-creator/assets/140586279/353587b1-2790-477d-ab95-8be9c26603ea)
+
+
+![prompts code](https://github.com/Lychnian/svg-logo-creator/assets/140586279/d1dfeb26-a2a2-4cd0-8003-a4bf77458063)
+
+
+![Screenshot node index js](https://github.com/Lychnian/svg-logo-creator/assets/140586279/50437e02-84e6-4d82-a1b3-51db99030893)
+
+
+![Screenshot Prompt Received](https://github.com/Lychnian/svg-logo-creator/assets/140586279/449fe8dc-562d-4ac4-917c-5b0efea9870e)
+
+
+![Screenshot JSON](https://github.com/Lychnian/svg-logo-creator/assets/140586279/70814eb9-1284-4a4d-a7af-e7748529e928)
+
+
+![Screenshot Circle Logo](https://github.com/Lychnian/svg-logo-creator/assets/140586279/2a716d60-575c-4fcc-aac3-6a1dd2323222)
+
+
+![Screenshot Square](https://github.com/Lychnian/svg-logo-creator/assets/140586279/b4d9ed4e-bd0a-4351-9c2a-5a64a63142a7)
+
+
+![Screenshot Triangle](https://github.com/Lychnian/svg-logo-creator/assets/140586279/19d41a7e-8069-4586-a291-1c6d244a8f62)
 
 
 ## How to Contribute
@@ -82,6 +116,7 @@ To see the SVG Logo Creator in action, watch the walkthrough video that demonstr
     
 
 ## Tests
+
 Unit tests have been implemented using Jest. Before running tests, ensure that you are in the directory where the SVG Logo Creator is located. To run the tests, open your terminal or command prompt, navigate to the SVG Logo Creator directory using the `cd` command, and then run the following command:
 
         npm test

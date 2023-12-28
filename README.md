@@ -51,7 +51,7 @@ These technologies work together to create a command-line application that gener
 ## Installation
 You can install this application using the following steps:
 
-1. clone my repository (github.com/Lychnian/svg-logo-creator) to your local machine by going to your terminal/gitbash
+1. clone my repository at https://github.com/Lychnian/svg-logo-creator to your local machine by going to your terminal/gitbash
 2. go to the directory you wish to clone the repository
 3. type the following: git clone https://github.com/Lychnian/svg-logo-creator.git (enter)
 

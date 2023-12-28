@@ -26,7 +26,7 @@ This project is licensed under the MIT license.
 
 
 ## Description
-The SVG Logo Creator is a command-line application built in Node.js that empowers users to create simple and customized logos for their projects without the need for professional graphic design services. With this user-friendly tool, users can enter up to three characters of text, select text and shape colors, and choose from various shapes like circles, squares, and triangles. The application then generates an SVG file, which can be opened in a web browser, providing users with a 300x200 pixel logo that matches their input criteria. This tool simplifies the logo creation process and helps users save time and resources, making it an invaluable asset for their projects."
+The SVG Logo Creator is a command-line application built in Node.js that empowers users to create simple and customized logos for their projects without the need for professional graphic design services. With this user-friendly tool, users can enter up to three characters of text, select text and shape colors, and choose from various shapes like circles, squares, and triangles. The application then generates an SVG file, which can be opened in a web browser, providing users with a 300x200 pixel logo that matches their input criteria. This tool simplifies the logo creation process and helps users save time and resources, making it an invaluable asset for their projects.
 
 
 ## Features
@@ -66,7 +66,7 @@ To use the SVG Logo Creator, follow these steps:
 
 4. Follow the on-screen prompts to specify the text, text color, shape, and shape color for your logo.
 5. Once you've provided all the input, the application will generate an SVG file named logo.svg that is timestamped.
-6. Open the generated logo.svg timestamped file in a browser to view your logo.
+6. Open the logo.svg timestamped file (that was generated and saved in the lib folder of the project directory) in a browser to view your logo.
 
 
 ## Demo Video

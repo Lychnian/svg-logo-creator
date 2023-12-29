@@ -1,4 +1,4 @@
-![logo_20231228T05463](https://github.com/Lychnian/svg-logo-creator/assets/140586279/71720cb9-7990-4b69-9555-554baa7b0f0a)![logo_20231228T05463](https://github.com/Lychnian/svg-logo-creator/assets/140586279/1dfdf78c-5c69-4bbc-9c30-684fc2034ccf)![logo_20231228T05460](https://github.com/Lychnian/svg-logo-creator/assets/140586279/1d571e36-85c0-4e90-af41-938fed45e3e7)![logo_20231228T05452](https://github.com/Lychnian/svg-logo-creator/assets/140586279/15689c43-1534-4f73-aebd-53efc8cde33c)# SVG LOGO CREATOR
+# SVG LOGO CREATOR
 
 
 ## Badges
@@ -78,6 +78,9 @@ YouTube URL: https://youtu.be/yVpkmNZ0MjI
 ## Screenshots
 
 
+![logo_20231228T05463](https://github.com/Lychnian/svg-logo-creator/assets/140586279/1dfdf78c-5c69-4bbc-9c30-684fc2034ccf)![logo_20231228T05460](https://github.com/Lychnian/svg-logo-creator/assets/140586279/1d571e36-85c0-4e90-af41-938fed45e3e7)![logo_20231228T05452](https://github.com/Lychnian/svg-logo-creator/assets/140586279/15689c43-1534-4f73-aebd-53efc8cde33c)
+
+
 ![Screenshot Shapes js](https://github.com/Lychnian/svg-logo-creator/assets/140586279/fe28665a-5cde-4e6f-9016-f43881411dcd)
 
 
@@ -109,15 +112,6 @@ YouTube URL: https://youtu.be/yVpkmNZ0MjI
 
 
 ![Screenshot Triangle](https://github.com/Lychnian/svg-logo-creator/assets/140586279/19d41a7e-8069-4586-a291-1c6d244a8f62)
-
-
-![Upl<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200"><circle cx="150" cy="100" r="80" fill="pink" /><text x="150" y="125" font-size="60" text-anchor="middle" fill="white">HVC</text></svg>oading logo_20231228T05452.svg…]()
-
-
-![Upl<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200"><rect x="55" y="20" width="190" height="190" fill="purple" /><text x="150" y="125" font-size="60" text-anchor="middle" fill="yellow">EGR</text></svg>oading logo_20231228T05460.svg…]()
-
-
-![Upl<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200"><polygon points="150,10 250,190 50,190" fill="black" /><text x="150" y="140" font-size="60" text-anchor="middle" fill="red">JTB</text></svg>oading logo_20231228T05463.svg…]()
 
 
 ## How to Contribute
